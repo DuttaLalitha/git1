@@ -1,4 +1,10 @@
  2nd file
+<<<<<<< HEAD
  mndjgvsbljvs
  jsdvjcfhdskbsdn
  dhfbjd,hcslcj
+=======
+cjhdslk
+fcnjsdhvfkjv
+cjksdgcdskjgdskjv
+>>>>>>> origin
